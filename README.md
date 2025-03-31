@@ -76,11 +76,11 @@ temperature_visualization/
 ├── outputs
 │   ├── matplotlib/            # 静态图输出
 │   └── pyecharts/             # 交互图输出
-└── src
+├──src
 │    ├── data_generator.py      # 数据管道
 │    ├── matplot/               # 12种Matplotlib视图
 │    ├── pyeplot/               # 12种PyEcharts视图
-├──main.py                      # 执行入口
+└── main.py                      # 执行入口
 ```
 ## 定制化示例
 ### 生成月度对比箱线图
