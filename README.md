@@ -116,5 +116,4 @@ def interactive_heatmap():
 - **数据问题**：检查`data/temperature.py`中的模拟算法
 - **样式调整**：修改`visualization_config.py`对应配置段
 - **输出异常**：确认`settings.py`中的路径权限
----
-> 本项目持续更新，欢迎提交Issue或Fork改进。可视化参数配置指南详见[CONFIG_GUIDE.md](docs/CONFIG_GUIDE.md)
+
