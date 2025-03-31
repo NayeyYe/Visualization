@@ -3,7 +3,6 @@ from typing import Optional, Dict, Any
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
-from config import settings
 from config.visualization_config import MATPLOT_LINE_CONFIG
 from pylab import mpl
 
